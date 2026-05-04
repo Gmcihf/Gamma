@@ -4,6 +4,10 @@
 Mathematical Proof Based on AI Assistance 
 ---
 
+## Zenodo
+
+[![DOI](https://zenodo.org/badge/1228522990.svg)](https://doi.org/10.5281/zenodo.20019871)
+
 ### Overview 
 This project utilized the artificial intelligence software "DeepSeek" to expand upon the mathematical problem "Factorial, Division by Factorial". 
 ### Declaration 
