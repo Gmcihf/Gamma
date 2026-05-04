@@ -6,6 +6,10 @@
 
 ---
 
+## Zenodo
+
+[![DOI](https://zenodo.org/badge/1228522990.svg)](https://doi.org/10.5281/zenodo.20019871)
+
 ### 概述
 
 本项目利用人工智能软件 **DeepSeek**，对数学问题 **“阶乘，阶除”** 进行了拓展。
